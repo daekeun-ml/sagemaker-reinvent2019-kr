@@ -2,7 +2,7 @@
 
 ## Introduction
 
-AWS re:Invent 2019에서 SageMaker의 신규 서비스들이 출시되고 해당 서비스들을 곧바로 이용할 수 . 
+AWS re:Invent 2019에 소개된 SageMaker의 신규 서비스들에 대한 예제 노트북들을 한글화하였습니다.
 
 ## Use Machine Learning Frameworks with Amazon SageMaker
 
