@@ -21,6 +21,10 @@ AWS re:Invent 2019에 소개된 SageMaker의 신규 서비스들에 대한 예�
     - [Autopilot에서 자동으로 생성한 노트북: Autopilot Candidate Definition Notebook](autopilot/SageMakerAutopilotCandidateDefinitionNotebook.ipynb)
     - [Autopilot에서 자동으로 생성한 노트북: Autopilot Data Exploration Notebook](autopilot/SageMakerAutopilotDataExplorationNotebook.ipynb)
 
+### Deep Grarph Library(DGL)
+- [Training Amazon SageMaker models for molecular property prediction by using DGL with PyTorch backend](dgl_gcn_tox21/pytorch-gcn-tox21.ipynb)
+- [Hyperparameter tuning with Amazon SageMaker for molecular property prediction](dgl_gcn_tox21/pytorch-gcn-tox21-hypertune.ipynb)
+
 ## Pre re:Invent 2019 Updates
 ### Multi Model Endpoints
 #### 특장점
