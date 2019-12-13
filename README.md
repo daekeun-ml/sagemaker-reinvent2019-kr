@@ -6,6 +6,7 @@ AWS re:Invent 2019에 소개된 SageMaker의 신규 서비스들에 대한 예�
 ## re:Invent 2019 Updates
 ### SageMaker Processing
 - [Scikit-Learn Data Processing and Model Evaluation](sagemaker-processing/scikit_learn_data_processing_and_model_evaluation.ipynb)
+- [Feature transformation with Amazon SageMaker Processing and SparkML](sagemaker-processing/feature_transformation_with_sagemaker_processing.ipynb)
 
 ### SageMaker Experiments
 - [MNIST Handwritten Digits Classification Experiment](sagemaker-experiments/mnist-handwritten-digits-classification-experiment.ipynb)
