@@ -13,6 +13,7 @@ AWS re:Invent 2019에 소개된 SageMaker의 신규 서비스들에 대한 예�
 
 ### SageMaker Debugger
 - [Using a built-in rule with TensorFlow](sagemaker-debugger/tensorflow_builtin_rule/tf-mnist-builtin-rule.ipynb)
+- [Tensorflow Action On Rule](sagemaker-debugger/tensorflow_builtin_rule/tf-mnist-stop-training-job.ipynb)
 
 ### SageMaker Model Monitor
 - [Introduction to Amazon SageMaker Model Monitor](sagemaker-model-monitor/SageMaker-ModelMonitoring.ipynb)
