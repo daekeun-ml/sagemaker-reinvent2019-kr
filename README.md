@@ -48,3 +48,7 @@ SageMaker에서 배포용 Model을 생성할 때 `MultiModel` 모드를 설정�
 
 ## License Summary
 이 샘플 코드는 MIT-0 라이센스에 따라 제공됩니다. LICENSE 파일을 참조하십시오.
+
+<br>
+
+[Privacy](https://aws.amazon.com/privacy/) | [Site terms](https://aws.amazon.com/terms/) | © 2020, Amazon Web Services, Inc. or its affiliates. All rights reserved.
